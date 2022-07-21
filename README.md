@@ -1,5 +1,5 @@
 # hd_wallet
-Hierarchical Deterministic Wallet to implement btcec
+Hierarchical Deterministic Wallet ( implement btcec )
 
 support
   - mnemonic get
