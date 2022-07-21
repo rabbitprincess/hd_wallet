@@ -5,4 +5,4 @@ support
   - mnemonic get
   - seed get
   - master key get
-  - derive
+  - derive ( hardened / non hardened )
