@@ -1,4 +1,4 @@
-module hd_wallet
+module github.com/gokch/hd_wallet
 
 go 1.17
 
